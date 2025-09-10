@@ -4,20 +4,18 @@
 🎯 **Always learning, sharing, and creating cool stuff**
 
 ## 📫 Connect with me
-<div align="left">
-  <a href="https://www.instagram.com/irfnndien" target="_blank" style="text-decoration:none">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="30" alt="instagram logo" />
-    <img width="12" />
-  </a>
-  <a href="mailto:muhammadirfannudien@gmail.com" target="_blank" style="text-decoration:none">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="gmail logo" />
-    <img width="12" />
-  </a>
-  <a href="https://www.linkedin.com/in/irfannudien" target="_blank" style="text-decoration:none">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo" />
-    <img width="12" />
-  </a>
-</div>
+<a href="https://www.instagram.com/irfnndien" target="_blank" style="text-decoration:none">
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="30" alt="instagram logo" /></code>
+  <img width="5" />
+</a>
+<a href="mailto:muhammadirfannudien@gmail.com" target="_blank" style="text-decoration:none">
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="gmail logo" /></code>
+  <img width="5" />
+</a>
+<a href="https://www.linkedin.com/in/irfannudien" target="_blank" style="text-decoration:none">
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo" /></code>
+  <img width="5" />
+</a>
 
 ## 🔥 Projects
 - 🛒 [SPATOO](https://github.com/irfannudien/api-shoe)  
