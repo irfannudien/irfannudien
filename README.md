@@ -28,8 +28,6 @@
 - 📱 [Wedding Invitations](https://github.com/irfannudien/wedding-invitation) - Mobile invitation (React Native)  
 - 🥟 [Mendoan Indonesia](https://github.com/irfannudien/Platina) - Culinary product website (React + MongoDB)
 
-  
-
 ## 🛠 Tech Stack
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" /></code>
@@ -55,7 +53,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40" alt="netlify logo" />
 </div>
 
+
 ##
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=irfannudien&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfannudien&layout=compact&theme=gruvbox&hide_border=true" /> |
+| <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=irfannudien&theme=gruvbox" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfannudien&layout=compact&theme=gruvbox&hide_border=true" /> |
 | ------------- | ------------- |
 
