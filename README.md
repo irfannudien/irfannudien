@@ -1,7 +1,7 @@
 # Hi, I'm Irfan 👋
 
 💻 **Frontend Enthusiast**  
-🎯 **Always learning, sharing, and creating cool stuff**
+🎯 **Always learning, creating, and sharing**
 
 ## 📫 Connect with me
 <p>
